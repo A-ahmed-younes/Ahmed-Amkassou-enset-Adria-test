@@ -23,3 +23,8 @@ OpenAPIDoc (Swagger)
 
 ![image](https://github.com/A-ahmed-younes/Ahmed-Amkassou-enset-Adria-test/assets/101255283/8d59f9f7-e4fc-4deb-bb1d-37a9e20fbac4)
 
+## openAPI 
+![image](https://github.com/A-ahmed-younes/Ahmed-Amkassou-enset-Adria-test/assets/101255283/830cd5cf-9b48-4120-9689-ca9b258018e7)
+
+![image](https://github.com/A-ahmed-younes/Ahmed-Amkassou-enset-Adria-test/assets/101255283/dd9aee52-e0ba-4796-a76a-4e2836682880)
+
