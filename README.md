@@ -16,3 +16,10 @@ Les micro-services technique à mettre en place sont :
 - Le service de configuration basé sur Spring cloud config ou Consul Config (au choix)
 Pour les micro-services, il faut générer la documentation des web services Restfull en utilisant la spécification
 OpenAPIDoc (Swagger)
+
+## Conception
+
+![image](https://github.com/A-ahmed-younes/Ahmed-Amkassou-enset-Adria-test/assets/101255283/5ff5f86c-af4a-4565-a84c-02fb4ea5a10e)
+
+![image](https://github.com/A-ahmed-younes/Ahmed-Amkassou-enset-Adria-test/assets/101255283/8d59f9f7-e4fc-4deb-bb1d-37a9e20fbac4)
+
