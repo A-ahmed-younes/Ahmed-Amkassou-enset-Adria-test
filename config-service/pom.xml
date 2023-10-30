@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ma.enset</groupId>
-	<artifactId>config-service</artifactId>
+	<artifactId>configservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>config-service</name>
+	<name>configservice</name>
 	<description>Adria test</description>
 	<properties>
 		<java.version>17</java.version>
