@@ -1,4 +1,4 @@
-package ma.enset.core.constant;
+package ma.enset.configservice.constant;
 
 public class CoreConstants {
     public static class BusinessExceptionMessage {

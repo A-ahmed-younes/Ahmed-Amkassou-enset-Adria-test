@@ -1,11 +1,11 @@
-package ma.enset.core.exception.handler;
+package ma.enset.configservice.exception.handler;
 
 import jakarta.annotation.Nullable;
 import jakarta.validation.ConstraintViolationException;
 import jakarta.validation.Path;
-import ma.enset.core.constant.CoreConstants;
-import ma.enset.core.exception.*;
-import ma.enset.core.exception.dto.ExceptionResponse;
+import ma.enset.configservice.constant.CoreConstants;
+import ma.enset.configservice.exception.*;
+import ma.enset.configservice.exception.dto.ExceptionResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

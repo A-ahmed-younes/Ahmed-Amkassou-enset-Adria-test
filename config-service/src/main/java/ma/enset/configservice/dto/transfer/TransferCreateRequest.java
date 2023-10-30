@@ -1,4 +1,4 @@
-package ma.enset.core.dto.transfer;
+package ma.enset.configservice.dto.transfer;
 
 import jakarta.validation.constraints.NotNull;
 

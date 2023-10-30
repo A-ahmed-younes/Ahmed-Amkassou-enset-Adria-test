@@ -1,7 +1,7 @@
-package ma.enset.core.dto.transfer;
+package ma.enset.configservice.dto.transfer;
 
-import ma.enset.core.dto.wallet.WalletResponse;
-import ma.enset.core.enums.TransferStatus;
+import ma.enset.configservice.dto.wallet.WalletResponse;
+import ma.enset.configservice.enums.TransferStatus;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

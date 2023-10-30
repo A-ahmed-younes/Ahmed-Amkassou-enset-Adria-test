@@ -1,4 +1,4 @@
-package ma.enset.core.dto.shared;
+package ma.enset.configservice.dto.shared;
 
 import lombok.Builder;
 

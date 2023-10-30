@@ -1,4 +1,4 @@
-package ma.enset.core.dto.wallet;
+package ma.enset.configservice.dto.wallet;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

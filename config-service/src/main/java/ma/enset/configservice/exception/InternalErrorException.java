@@ -1,4 +1,4 @@
-package ma.enset.core.exception;
+package ma.enset.configservice.exception;
 
 public class InternalErrorException extends RuntimeException {
 

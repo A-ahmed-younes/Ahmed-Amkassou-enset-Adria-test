@@ -1,4 +1,4 @@
-package ma.enset.core.dto.wallet;
+package ma.enset.configservice.dto.wallet;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

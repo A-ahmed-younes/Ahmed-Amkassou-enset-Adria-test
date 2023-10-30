@@ -1,4 +1,4 @@
-package ma.enset.core.exception.dto;
+package ma.enset.configservice.exception.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

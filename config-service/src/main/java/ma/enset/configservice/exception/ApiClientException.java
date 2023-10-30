@@ -1,6 +1,6 @@
-package ma.enset.core.exception;
+package ma.enset.configservice.exception;
 
-import ma.enset.core.exception.dto.ExceptionResponse;
+import ma.enset.configservice.exception.dto.ExceptionResponse;
 import lombok.Getter;
 
 @Getter

@@ -1,4 +1,4 @@
-package ma.enset.core.enums;
+package ma.enset.configservice.enums;
 
 public enum TransferStatus {
     PENDING,

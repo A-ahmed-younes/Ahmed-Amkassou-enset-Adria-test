@@ -1,4 +1,4 @@
-package ma.enset.core.dto.wallet;
+package ma.enset.configservice.dto.wallet;
 
 public record WalletUpdateRequest(
         String currency,
